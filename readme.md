@@ -1,5 +1,9 @@
 # Fairness proof for blockchain based jackpot games
 
+
+## [Click here to go to the garlicky.fun round validator](https://stackola.github.io/blockchain_fairness_proof/)
+
+
 This project implements a fair, reproducible lottery drawing based only on inputs from a public blockchain.
 
 # Game description
