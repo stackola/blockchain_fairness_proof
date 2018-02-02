@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Fairness proof demo</title>
+		<script src="rng.js"></script>
+		<script src="hashes.js"></script>
+		<script src="simulate.js"></script>
+</head>
+<style>
+	body{
+		text-align: center;
+	}
+</style>
+<body>
+	Simulate a round over 29000 actual garlicoin hashes (hash 0 - hash 29000 [2018-02-02T20:00:00Z])<br/><br/> 
+	Round data | Click on any round on garlicky.fun and copy the round data<br/>
+	<textarea name="" id="roundData" cols="50" rows="10"></textarea><br/>
+	<br/>
+	<button onClick="buttonClicked()">Verify result</button> (Takes a while!)<br/><br/>
+	Output:<br/>
+	<textarea name="" id="output" cols="50" rows="15"></textarea>
+</body>
+</html>
