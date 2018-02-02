@@ -3,6 +3,9 @@
 
 ## [Click here to go to the garlicky.fun round validator](https://stackola.github.io/blockchain_fairness_proof/)
 
+## [Click here to simulate a garlicky.fun round over 29000 blockhashes](https://stackola.github.io/blockchain_fairness_proof/simulate.html)
+
+
 
 This project implements a fair, reproducible lottery drawing based only on inputs from a public blockchain.
 
